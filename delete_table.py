@@ -19,4 +19,4 @@ def ApagarTabela(url, delete_url):
         except:
             print("Default DELETE Error")
 
-ApagarTabela('https://trendy-tiktok-api.herokuapp.com/trend-api/wsgeral/hastag', 'https://trendy-tiktok-api.herokuapp.com/trend-api/wsgeral/delete-hastag/')
+#ApagarTabela('https://trendy-tiktok-api.herokuapp.com/trend-api/wsgeral/hastag', 'https://trendy-tiktok-api.herokuapp.com/trend-api/wsgeral/delete-hastag/')
